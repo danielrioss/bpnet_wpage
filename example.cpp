@@ -1,6 +1,6 @@
 /**********************************************************************************************************
   DEMO CODE: XOR Backpropagation Example
-  File: main.cpp
+  File: example.cpp
   Version: 0.1
   Copyright(C) NeuroAI (http://www.learnartificialneuralnetworks.com)
   Documentation: http://www.learnartificialneuralnetworks.com/neural-network-software/backpropagation-source-code/
